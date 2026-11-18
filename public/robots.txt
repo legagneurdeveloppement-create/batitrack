@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# BâtiTrack — par LEGAGNEUR DÉVELOPPEMENT
+# Application de gestion de chantier (PWA)
+
+Sitemap: /sitemap.xml
